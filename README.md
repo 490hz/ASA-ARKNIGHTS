@@ -50,6 +50,7 @@
 
 ### Misc
 
+- Language
 - Custom Menu Font
 
 

@@ -25,14 +25,15 @@
 ### Player
 
 - God Mode
-- Damage Multiplier
-- Instant Kill
-- Rapid Fire
-- Auto Skills
+- ATK Multiplier
 - Infinite SP
 - Infinite Cost
 - Infinite Unit Limit
 - Infinite Attack Range
+- Attack All Enemies
+- Fast Attack
+- Auto Skills
+- Instant Kill
 - Deploy Anywhere
 - No Redeploy Cooldown
 
@@ -40,7 +41,7 @@
 
 - Global Speed
 - Battle Speed
-- Skip Talk
+- Skip Dialogues
 - Kill Aura
 - Instant Win
 - Infinite Cards
@@ -50,6 +51,7 @@
 - Skin Unlocker
 - FPS Indicator
 - UID Changer
+
 
 ### Misc
 
